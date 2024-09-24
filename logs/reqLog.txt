@@ -117,3 +117,17 @@
 20240924	14:47:01	371c09e7-f6ff-44c3-9798-06bfd8ff9cc6	GET	undefined	/favicon.ico
 20240924	14:47:40	e19f5630-1d90-4240-af5a-df813cfda6cd	GET	undefined	/employees
 20240924	14:49:23	07e552ee-69a0-4151-844d-038247ea920b	POST	undefined	/employees
+20240924	14:52:54	37719ee3-ee03-45f1-99f7-c4a367411cd5	POST	undefined	/employees
+20240924	14:53:16	4f32b4b9-c66d-4d2e-b592-794240f7bf59	PUT	undefined	/employees
+20240924	14:53:29	f09035f5-f240-4d23-b709-fd647ed6f491	GET	undefined	/employees
+20240924	14:54:10	c598654b-f5c8-4688-ad5c-fc2732289276	PUT	undefined	/employees
+20240924	14:54:20	0db65db0-33f9-4c13-8c32-f95f82dd4df7	PUT	undefined	/employees
+20240924	14:54:26	8fd0adec-65b2-4283-8691-6479dc624780	PUT	undefined	/employees
+20240924	14:54:35	2dcec33f-382c-40eb-a710-c393c4028dbd	GET	undefined	/employees
+20240924	14:54:57	0b2054d8-35a7-4b4c-9815-e55a94e1e120	POST	undefined	/employees
+20240924	14:56:37	2d78bd53-8d51-4535-bd51-405915d1515e	DELETE	undefined	/employees
+20240924	14:57:17	383e12e3-641b-4dfe-ac88-18e7fe839d7c	DELETE	undefined	/employees
+20240924	14:58:08	e2834294-12ea-413f-a9fb-396df2a4f423	GET	undefined	/employees
+20240924	14:58:38	992c57cd-e85a-4017-8ea5-ed76c99aea98	POST	undefined	/employees
+20240924	14:58:48	4813cff4-54a4-434b-b286-5bd88b9a0193	DELETE	undefined	/employees
+20240924	15:00:13	bdf9bbc3-1739-44fe-bcc5-2051e9ed9d23	GET	undefined	/employees/1
