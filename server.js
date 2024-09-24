@@ -7,7 +7,6 @@ const errorHandler = require("./middleware/errorHandler");
 const cors = require("cors");
 const corsOptions = require('./config/corsOptions')
 
-// 3:11:46
 
 //custom middleware
 app.use(logger); 
@@ -23,11 +22,9 @@ app.use(express.json());
 
 //serve static files
 app.use("/", express.static(path.join(__dirname, "/public")));
-app.use("/subdir", express.static(path.join(__dirname, "/public")));
 
 //Routes
 app.use("/", require("./routes/route"));
-app.use("/subdir", require("./routes/subdir"));
 app.use("/employees", require("./routes/api/employees"));
 
 
