@@ -5,9 +5,7 @@ const data = {};
 data.employees = require('../../model/employees.json');
 
 router.route('/')
-    .get((req, res) => {
-        res.json(data.employees)
-    })
+    .get()
     .post((req, res) => {
         res.json({
             "firstname": req.body.firstname,
