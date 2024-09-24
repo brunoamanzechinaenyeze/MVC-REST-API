@@ -112,3 +112,8 @@
 20240924	10:45:05	c803fb51-083b-488c-8ea4-b4a07a0c29b9	GET	undefined	/employees/2
 20240924	10:46:50	cfc70166-204b-4f12-9b51-94ea32e8e330	GET	undefined	/employees
 20240924	10:47:07	3d71031b-f8af-4c2c-9e58-b2b94b645e75	DELETE	undefined	/employees
+20240924	14:47:00	7e635b36-2059-46cb-9a22-8ed8d629b791	GET	undefined	/
+20240924	14:47:01	ac6988ce-4e54-4261-ab0c-c49e5b3c39c0	GET	undefined	/css/style.css
+20240924	14:47:01	371c09e7-f6ff-44c3-9798-06bfd8ff9cc6	GET	undefined	/favicon.ico
+20240924	14:47:40	e19f5630-1d90-4240-af5a-df813cfda6cd	GET	undefined	/employees
+20240924	14:49:23	07e552ee-69a0-4151-844d-038247ea920b	POST	undefined	/employees
