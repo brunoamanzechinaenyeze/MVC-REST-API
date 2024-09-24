@@ -7,11 +7,7 @@ router.route('/')
     .get()
     .post()
     .put()
-    .delete((req, res) => {
-        res.json({
-            "id": req.body.id
-        })
-    });
+    .delete();
 
 router.route('/:id')
     .get((req, res) => {
