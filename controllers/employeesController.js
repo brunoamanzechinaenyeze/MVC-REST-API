@@ -30,3 +30,11 @@ const getEmployee = (req, res) => {
         "id": req.params.id
     })
 }
+
+module.exports = {
+    getAllEmployees,
+    createNewEmployee,
+    updateEmployee,
+    deleteEmployee,
+    getEmployee
+}
