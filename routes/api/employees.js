@@ -5,12 +5,7 @@ const path = require('path');
 
 router.route('/')
     .get()
-    .post((req, res) => {
-        res.json({
-            "firstname": req.body.firstname,
-            "lastname": req.body.lastname
-        })
-    })
+    .post()
     .put((req, res) => {
         res.json({
             "firstname": req.body.firstname,
