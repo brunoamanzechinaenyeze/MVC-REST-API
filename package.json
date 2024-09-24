@@ -1,0 +1,21 @@
+{
+  "name": "node-js_02",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server",
+    "author": "Amanze Bruno",
+    "license": "ISC",
+    "description": ""
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "express": "^4.21.0",
+    "uuid": "^10.0.0"
+  }
+}

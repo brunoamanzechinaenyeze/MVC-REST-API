@@ -1,0 +1,9 @@
+20240919	20:08:04	52049266-0bbf-4da2-9304-a10e4906beee	Error: Not Allowed by Cors
+20240919	20:27:17	0f7f4b50-3572-4d6b-999c-bd7107cfb7af	Error: Not Allowed by Cors
+20240919	20:27:20	811f1733-1ecf-4ae0-a180-cf805340dceb	Error: Not Allowed by Cors
+20240919	20:27:24	19f30970-c0e9-4f96-bcce-e812a94f50df	Error: Not Allowed by Cors
+20240919	20:27:27	35d1c8b4-e6ed-47a4-9bd3-1bba0990a0c0	Error: Not Allowed by Cors
+20240919	20:27:40	7604ee8f-441c-44c1-a0c4-334d5f784700	Error: Not Allowed by Cors
+20240923	19:41:00	1a2778d3-6bfa-4509-9a41-e3af20a8353f	Error: ENOENT: no such file or directory, stat 'C:\Users\Amanze\Documents\LESSONS\Express-Router\routes\index.html'
+20240923	19:43:21	8ab3febe-0002-42ec-966c-c4ecc8e079d4	Error: ENOENT: no such file or directory, stat 'C:\Users\Amanze\Documents\LESSONS\Express-Router\routes\index.html'
+20240923	19:43:21	526b6afa-6cb8-4df0-91f5-390773ee3b69	Error: ENOENT: no such file or directory, stat 'C:\Users\Amanze\Documents\LESSONS\Express-Router\routes\index.html'
